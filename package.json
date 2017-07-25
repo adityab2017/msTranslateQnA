@@ -1,0 +1,31 @@
+{
+  "name": "mstranslateqna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityab2017/msTranslateQnA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityab2017/msTranslateQnA/issues"
+  },
+  "homepage": "https://github.com/adityab2017/msTranslateQnA#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "botbuilder": "^3.8.4",
+    "dotenv-extended": "^2.0.1",
+    "html-entities": "^1.2.1",
+    "mstranslator": "^3.0.0",
+    "request": "^2.81.0",
+    "restify": "^5.0.1"
+  }
+}
